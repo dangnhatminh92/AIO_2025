@@ -1,0 +1,7 @@
+path: /home/dev-ai/Downloads/Hard Hat Workers.v14-raw_headclassonly.yolov8-obb/ # thư mục chứa train/val
+train: /home/dev-ai/Downloads/Hard Hat Workers.v14-raw_headclassonly.yolov8-obb/train/images
+val: /home/dev-ai/Downloads/Hard Hat Workers.v14-raw_headclassonly.yolov8-obb/valid/images
+test: /home/dev-ai/Downloads/Hard Hat Workers.v14-raw_headclassonly.yolov8-obb/train
+
+nc: 1  # số class
+names: ['helmet']
